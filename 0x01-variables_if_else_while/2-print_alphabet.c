@@ -4,7 +4,6 @@
  * main - print all the alphabet
  *
  *Return: 0
- *
  */
 
 int main(void)
