@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - main block 
+ * main - main block
  *
  * Description: combinations of single numbers
  *
@@ -15,7 +15,7 @@ int main(void)
 
 	for (g = 0; g < 10; g++)
 	{
-	putchar('g');
+	putchar(g);
 	putchar(',');
 	putchar(' ');
 	}
