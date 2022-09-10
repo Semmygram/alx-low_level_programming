@@ -14,10 +14,10 @@ int main(void)
 	int g;
 
 	for (g = 48; g <= 57; g++)
-	
+	{
 	putchar(g);
 	putchar(',');
 	putchar(' ');
-	
+	}
 	return (0);
 }
