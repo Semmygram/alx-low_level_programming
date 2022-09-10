@@ -3,10 +3,9 @@
 /**
  * main - mainblock
  *
- * Description: prints double numbers 
+ * Description: prints double numbers
  *
- * Return : 0
- *
+ * Return: 0
  */
 int main(void)
 {
