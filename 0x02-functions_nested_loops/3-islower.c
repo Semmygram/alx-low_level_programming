@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * _islower - checks for lower case alpahabet
+ *  _islower - checks for lower case alpahabets
+ *
+ * Desc:  is lower
  *
  *@c: parameters in ascii code
  *
