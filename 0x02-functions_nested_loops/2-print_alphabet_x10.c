@@ -9,7 +9,7 @@
  *
  */
 
-void print_alpahabet_x10(void)
+void print_alphabet_x10(void)
 {
 	int I = 1, J;
 
