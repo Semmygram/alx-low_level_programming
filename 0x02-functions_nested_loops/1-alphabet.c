@@ -9,12 +9,13 @@
 
 void print_alpahabet(void)
 {
-	int ch = a;
+	int ch=a;
 
 	while (ch <= z)
 	{
-	_putchar(ch)
+	_putchar(ch);
 	ch++;
 	}
-	return (0);
+	_putchar("\n")
+	return void;
 }
