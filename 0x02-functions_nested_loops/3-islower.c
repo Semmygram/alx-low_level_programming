@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- *  _islower - checks for lower case alpahabets
+ *_islower - checks for lower case alpahabets , if it lower returns 1, returns 0 if otherwise
  *
  * Desc:  is lower
  *
  *@c: parameters in ascii code
  *
- * return :0
+ * Return :0
  *
  */
 
