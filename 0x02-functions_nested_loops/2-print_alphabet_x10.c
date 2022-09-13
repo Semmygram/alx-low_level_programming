@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * desc: print the alphabets 10 times
+ * Description: print the alphabets 10 times
  *
  * return : void
  *
