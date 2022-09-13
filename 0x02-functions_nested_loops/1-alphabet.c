@@ -16,6 +16,6 @@ void print_alpahabet(void)
 		_putchar(ch);
 		ch++;
 	}
-	_putchar('\n')
+	_putchar('\n');
 	return void;
 }
