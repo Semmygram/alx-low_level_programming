@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - entry point 
+ * main - entry point
  *
- * desc :  print the alphabets 10 times 
+ * desc : print the alphabets 10 times
  *
  * return : void
  *
@@ -18,4 +18,5 @@ void print_alphabet_x10(void)
 		for (J = 'a'; J <= 'z'; J++)
 			_putchar(J);
 	}
+	_putchar('\n');
 }
