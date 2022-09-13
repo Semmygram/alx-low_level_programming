@@ -1,6 +1,8 @@
 #include "main.h"
 /**
  * print_sign - print the sign of a number
+ * if the number is greater than zero 
+ * equals to or less than 
  *
  * @n :positive or negative nunbers
  *
