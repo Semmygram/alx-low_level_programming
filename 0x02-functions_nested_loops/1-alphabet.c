@@ -9,9 +9,9 @@
 
 void print_alpahabet(void)
 {
-	int ch=a;
+	char ch = 'a';
 
-	while (ch <= z)
+	while (ch <= 'z')
 	{
 	_putchar(ch);
 	ch++;
