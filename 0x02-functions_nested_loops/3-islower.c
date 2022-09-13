@@ -1,16 +1,13 @@
 #include "main.h"
 
 /**
- *_islower - checks for lower case alpahabets , if it lower returns 1, returns 0 if otherwise
+ * _islower - Shows 1 if the input is a
+ * lowercase character. Another cases, shows
+ * 0
+ ** @c: The character in ASCII code
  *
- * Desc:  is lower
- *
- *@c: parameters in ascii code
- *
- * Return :0
- *
+* Return: 1 for lowercase character. 0 for the rest.
  */
-
 int _islower(int c)
 {
 	if (c >= 97 && c <= 122)
