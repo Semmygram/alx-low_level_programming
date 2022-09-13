@@ -5,7 +5,7 @@
  *
  * Description: print the alphabets 10 times
  *
- * return : void
+ * Return : void
  *
  */
 
