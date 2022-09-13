@@ -17,5 +17,4 @@ void print_alpahabet(void)
 		ch++;
 	}
 	_putchar('\n');
-	return void;
 }
