@@ -3,7 +3,7 @@
 /**
  * _islower - checks for lower case alpahabet
  *
- * parameters in ascii code 
+ *@c: parameters in ascii code
  *
  * return :0
  *
