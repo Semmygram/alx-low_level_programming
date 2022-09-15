@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_line - print a straight line 
+ * print_line - print a straight line
  *
- * @n : length of the line 
+ * @n : length of the line
  *
- * return : void 
+ * return : void
  *
  */
 
