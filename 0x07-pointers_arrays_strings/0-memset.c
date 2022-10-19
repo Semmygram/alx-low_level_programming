@@ -5,15 +5,21 @@
  *@s: memory area
  *@b: constant byte
  *@n: bytes filled
+ *Description: fill the first 'n' bytes of the memory by 'b'
  *return: return to dest
  */
 
 char *_memset(char *s, char b, unsigned int n)
 {
-	unsigned int i;
+	int i;
 
-	for (i = 0; i < n; i++)
-		*(s + i) = b;
+	i = 0;
+	while (n > 0)
+	{
+		s[i] = b;
+		i++;
+		n--;
+	}
 
-	return (s)
+	return (s);
 }
